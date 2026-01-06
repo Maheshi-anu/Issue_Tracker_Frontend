@@ -5,7 +5,7 @@ const getBaseURL = () => {
     return import.meta.env.VITE_API_BASE_URL;
   }
   if (import.meta.env.PROD) {
-    return 'https://issuetrackerbackend-production-b3c3.up.railway.app';
+    return 'https://issuetrackerbackend-production-b3c3.up.railway.app/api';
   }
   return '/api';
 };
