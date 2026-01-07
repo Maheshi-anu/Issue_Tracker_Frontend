@@ -11,7 +11,7 @@ You need to have Node.js (version 16 or higher) installed on your computer befor
 Installation Steps
 
 1. Clone the project
-git clone https://github.com/your-username/Issue_Tracker_Frontend.git
+git clone https://github.com/Maheshi-anu/Issue_Tracker_Frontend.git 
 cd Issue_Tracker_Frontend
 
 2. Install dependencies
@@ -47,8 +47,8 @@ When you log in, your authentication token is stored securely. Each request to t
 
 Running Commands
 
-npm start - Starts the development server for testing
-npm run build - Creates a production-ready version
+npm start - Starts the development server for testing, 
+npm run build - Creates a production-ready version, 
 npm test - Runs the application tests
 
 Backend Connection
